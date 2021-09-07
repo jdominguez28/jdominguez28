@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jdominguez28
+- 👀 I’m interested in scheduling, data analysis, reporting, call center, process improvement.
+- 🌱 I’m currently learning programming in java and python.
+- 💞️ I’m looking to collaborate on client / server projects.
+- 📫 How to reach me johadc2009.jdc@gmail.com
